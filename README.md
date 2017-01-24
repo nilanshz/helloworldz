@@ -1,1 +1,3 @@
 # helloworldz
+
+TODAY IS HOW IT ACTUALLY STARTS
